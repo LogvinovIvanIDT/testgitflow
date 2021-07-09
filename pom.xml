@@ -7,6 +7,10 @@
     <groupId>test.gitflow</groupId>
     <artifactId>test.gitflow</artifactId>
     <version>1.5-SNAPSHOT</version>
+
+    <properties>
+        <test.fix>1.1.0</test.fix>
+    </properties>
     <build>
         <plugins>
 
